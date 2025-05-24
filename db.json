@@ -1,0 +1,25 @@
+{
+  "workouts": [
+    {
+      "id": "1",
+      "type": "Running",
+      "duration": 30,
+      "calories": 250,
+      "date": "2025-05-23"
+    },
+    {
+      "type": "Cardioo",
+      "duration": 2009,
+      "calories": 20001,
+      "date": "2025-05-12",
+      "id": "0fed"
+    },
+    {
+      "id": "cf3d",
+      "type": "Swimming",
+      "duration": 120,
+      "calories": 200,
+      "date": "2025-05-24"
+    }
+  ]
+}
